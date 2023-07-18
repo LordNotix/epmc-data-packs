@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"11",
+		"12"
+	],
+	"key": {
+		"1": {
+			"item": "tfc:wood/lumber/aspen"
+		},
+		"2": {
+			"tag": "tfc:hammers"
+		}
+	},
+	"result": {
+		"item": "tfc:wood/planks/aspen_workbench",
+		"count": 1
+	}
+}

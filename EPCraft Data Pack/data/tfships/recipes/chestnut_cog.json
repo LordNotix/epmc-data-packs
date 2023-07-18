@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"131",
+		"242",
+		"445"
+	],
+	"key": {
+		"1": {
+			"tag": "epmc:fabric_bundles"
+		},
+		"2": {
+			"tag": "tfc:barrels"
+		},
+		"3": {
+			"item": "smallships:sail"
+		},
+		"4": {
+			"item": "tfc:wood/planks/chestnut"
+		},
+		"5": {
+			"item": "firmaciv:canoe_paddle"
+		}
+	},
+	"result": {
+		"item": "tfships:chestnut_cog",
+		"count": 1
+	}
+}
