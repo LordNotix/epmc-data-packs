@@ -25,7 +25,7 @@ This is useful for when you want to work on config files without necessarily edi
 Navigate to a directory that you wish to contain this project. Cloning this project will create a new directory of the project's name, within the directory that you run the following command:|
 
 ```
-git clone https://github.com/LordNotix/epmc-datapacks.git
+git clone https://github.com/LordNotix/epmc-data-packs.git
 ```
 
 This may ask you to authenticate your git credentials, do so.
@@ -41,7 +41,7 @@ Navigate to the correct directory. This can be in a file-explorer, or via the co
 From within the folder you want to turn into the git project.
 ```
 git init
-git remote add origin https://github.com/LordNotix/epmc-datapacks.git
+git remote add origin https://github.com/LordNotix/epmc-data-packs.git
 git fetch origin
 git checkout -b master --track origin/main # origin/main is clone's default
 ```
