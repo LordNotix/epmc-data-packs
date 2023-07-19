@@ -6,11 +6,11 @@
         }
     },
     "input_fluid": {
-        "ingredient": "tfc:white_dye",
+        "ingredient": "tfc:magenta_dye",
         "amount": 25
     },
     "output_item": {
-        "item": "chalk:white_chalk"
+        "item": "chalk:magenta_chalk"
     },
     "duration": 1000
 }
