@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:dyes/gray"
+      },
+      {
+        "item": "tfc:ore/gypsum"
+      }
+    ],
+    "result": {
+      "item": "chalk:gray_chalk",
+      "count": 1
+    }
+  }

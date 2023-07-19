@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:dyes/lime"
+      },
+      {
+        "item": "tfc:ore/gypsum"
+      }
+    ],
+    "result": {
+      "item": "chalk:lime_chalk",
+      "count": 1
+    }
+  }

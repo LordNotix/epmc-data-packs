@@ -1,0 +1,6 @@
+{
+    "__comment__": "This file was automatically created by LordNotix",
+    "type": "tfc:landslide",
+    "ingredient": "tfc:rock/cracked_bricks/marble_wall",
+    "result": "tfc:rock/cobble/marble"
+}
