@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "tfc:metal/chain/copper"
+		}
+	],
+	"result": {
+		"item": "terrafirmamisc:metal/chain/copper",
+		"count": 2
+	}
+}

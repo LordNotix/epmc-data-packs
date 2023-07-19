@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "tfc:metal/chain/bronze"
+		}
+	],
+	"result": {
+		"item": "terrafirmamisc:metal/chain/bronze",
+		"count": 2
+	}
+}

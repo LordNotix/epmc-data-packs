@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "terrafirmamisc:metal/chain/wrought_iron"
+		},
+		{
+			"item": "terrafirmamisc:metal/chain/wrought_iron"
+		}
+	],
+	"result": {
+		"item": "tfc:metal/chain/wrought_iron",
+		"count": 1
+	}
+}
