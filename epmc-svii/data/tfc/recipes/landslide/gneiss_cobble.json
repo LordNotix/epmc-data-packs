@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was manually created by LordNotix",
+  "type": "tfc:landslide",
+  "ingredient": [
+    "tfc:rock/cobble/gneiss",
+    "tfc:rock/cracked_bricks/gneiss",
+    "tfc:rock/cracked_bricks/gneiss_slab",
+    "tfc:rock/cracked_bricks/gneiss_stairs",
+    "tfc:rock/cracked_bricks/gneiss_wall"
+  ],
+  "result": "tfc:rock/cobble/gneiss"
+}

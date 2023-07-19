@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was manually created by LordNotix",
+  "type": "tfc:landslide",
+  "ingredient": [
+    "tfc:rock/cobble/schist",
+    "tfc:rock/cracked_bricks/schist",
+    "tfc:rock/cracked_bricks/schist_slab",
+    "tfc:rock/cracked_bricks/schist_stairs",
+    "tfc:rock/cracked_bricks/schist_wall"
+  ],
+  "result": "tfc:rock/cobble/schist"
+}

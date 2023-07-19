@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was manually created by LordNotix",
+  "type": "tfc:landslide",
+  "ingredient": [
+    "tfc:rock/cobble/slate",
+    "tfc:rock/cracked_bricks/slate",
+    "tfc:rock/cracked_bricks/slate_slab",
+    "tfc:rock/cracked_bricks/slate_stairs",
+    "tfc:rock/cracked_bricks/slate_wall"
+  ],
+  "result": "tfc:rock/cobble/slate"
+}
