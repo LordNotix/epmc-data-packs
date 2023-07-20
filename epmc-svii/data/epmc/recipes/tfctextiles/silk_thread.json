@@ -1,0 +1,25 @@
+{
+	"__comment__": "This file was manually created by DeadShotm1",
+	"type": "tfc:damage_inputs_shapeless_crafting",
+	"recipe": {
+		"type": "minecraft:crafting_shapeless",
+		"ingredients": [
+			{
+				"item": "tfc:spindle"
+			},
+			{
+				"item": "paragon_textiles:silk_wisps"
+			},
+			{
+				"item": "paragon_textiles:silk_wisps"
+			},
+			{
+				"item": "paragon_textiles:silk_wisps"
+			}
+		],
+		"result": {
+			"item": "paragon_textiles:silk",
+			"count": 1
+		}
+	}
+}
