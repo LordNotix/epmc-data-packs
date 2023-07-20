@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "terrafirmamisc:metal/chain/blue_steel"
+		},
+		{
+			"item": "terrafirmamisc:metal/chain/blue_steel"
+		}
+	],
+	"result": {
+		"item": "tfc:metal/chain/blue_steel",
+		"count": 1
+	}
+}

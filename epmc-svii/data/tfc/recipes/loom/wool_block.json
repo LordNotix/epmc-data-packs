@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was manually created by DeadShotm1",
+  "type": "tfc:loom",
+  "ingredient": {
+    "item": "tfc:wool_cloth"
+  },
+  "input_count": 9,
+  "result": {
+    "item": "minecraft:white_wool",
+    "count": 1
+  },
+  "steps_required": 9,
+  "in_progress_texture": "minecraft:block/white_wool"
+}

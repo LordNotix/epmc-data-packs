@@ -1,0 +1,20 @@
+{
+	"__comment__": "This file was manually created by DeadShotm1",
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"12",
+		"21"
+	],
+	"key": {
+		"1": {
+			"tag": "tfc:can_be_lit_on_torch"
+		},
+		"2": {
+			"tag": "epmc:can_wicker"
+		}
+	},
+	"result": {
+		"item": "paragon_textiles:wicker",
+		"count": 1
+	}
+}

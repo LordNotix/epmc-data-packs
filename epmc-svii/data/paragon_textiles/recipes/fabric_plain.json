@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"111",
+		"121",
+		"111"
+	],
+	"key": {
+		"1": {
+			"tag": "epmc:fabric"
+		},
+		"2": {
+			"tag": "tfc:can_be_lit_on_torch"
+		}
+	},
+	"result": {
+		"item": "paragon_textiles:fabric_plain",
+		"count": 1
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"__comment__": "This file was manually created by DeadShotm1",
+	"type": "tfc:damage_inputs_shapeless_crafting",
+	"recipe": {
+		"type": "minecraft:crafting_shapeless",
+		"ingredients": [
+			{
+				"item": "tfc:spindle"
+			},
+			{
+				"item": "tfc:jute_fiber"
+			}
+		],
+		"result": {
+			"item": "paragon_textiles:twine",
+			"count": 2
+		}
+	}
+}

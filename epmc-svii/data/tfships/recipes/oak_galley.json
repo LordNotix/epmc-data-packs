@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"121",
+		"131",
+		"121"
+	],
+	"key": {
+		"1": {
+			"item": "firmaciv:canoe_paddle"
+		},
+		"2": {
+			"item": "tfc:wood/planks/oak"
+		},
+		"3": {
+			"item": "smallships:oak_cog"
+		}
+	},
+	"result": {
+		"item": "smallships:oak_galley",
+		"count": 1
+	}
+}

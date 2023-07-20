@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was manually created by DeadShotm1",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    " X ",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "paragon_textiles:twine"
+    }
+  },
+  "result": {
+    "item": "tfc:jute_net"
+  }
+}

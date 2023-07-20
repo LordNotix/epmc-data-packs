@@ -1,0 +1,13 @@
+{
+	"__comment__": "This file was manually created by DeadShotm1",
+	"type": "tfc:loom",
+	"ingredient": {
+		"item": "paragon_textiles:silk"
+	},
+	"input_count": 4,
+	"result": {
+		"item": "tfc:silk_cloth"
+	},
+	"steps_required": 24,
+	"in_progress_texture": "minecraft:block/white_wool"
+}

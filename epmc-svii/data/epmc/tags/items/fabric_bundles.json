@@ -1,0 +1,22 @@
+{
+	"values":
+	[
+		"paragon_textiles:fabric_plain",
+		"paragon_textiles:fabric_red",
+		"paragon_textiles:fabric_orange",
+		"paragon_textiles:fabric_yellow",
+		"paragon_textiles:fabric_lime",
+		"paragon_textiles:fabric_green",
+		"paragon_textiles:fabric_cyan",
+		"paragon_textiles:fabric_light_blue",
+		"paragon_textiles:fabric_blue",
+		"paragon_textiles:fabric_purple",
+		"paragon_textiles:fabric_magenta",
+		"paragon_textiles:fabric_pink",
+		"paragon_textiles:fabric_white",
+		"paragon_textiles:fabric_light_gray",
+		"paragon_textiles:fabric_gray",
+		"paragon_textiles:fabric_black",
+		"paragon_textiles:fabric_brown"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"__comment__": "This file was manually created by DeadShotm1",
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"11",
+		"11"
+	],
+	"key": {
+		"1": {
+			"item": "tfc:jute"
+		}
+	},
+	"result": {
+		"item": "paragon_textiles:raw_fibers",
+		"count": 1
+	}
+}

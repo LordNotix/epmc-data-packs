@@ -1,0 +1,16 @@
+{
+	"type": "tfc:loom",
+	"ingredient": {
+		"item": "paragon_textiles:silk"
+	},
+	"input_count": 3,
+	"result": {
+		"stack": {
+			"item": "tfc:silk_cloth",
+			"count": 1
+		},
+		"modifiers": []
+	},
+	"steps_required": 10,
+	"in_progress_texture": {}
+}
