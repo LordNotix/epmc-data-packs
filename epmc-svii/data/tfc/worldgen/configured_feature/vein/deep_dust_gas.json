@@ -1,0 +1,30 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "type": "tfc:disc_vein",
+    "config": {
+      "rarity": 20,
+      "min_y": {
+        "absolute": -64
+      },
+      "max_y": {
+        "absolute": 0
+      },
+      "size": 24,
+      "height": 4,
+      "density": 0.6,
+      "blocks": [
+        {
+          "replace": [
+            "minecraft:air"
+          ],
+          "with": [
+            {
+              "weight": 100,
+              "block": "adpother:dust"
+            }
+          ]
+        }
+      ],
+      "random_name": "dust_gas"
+    }
+  }

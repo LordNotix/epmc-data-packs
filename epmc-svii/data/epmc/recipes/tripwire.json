@@ -1,0 +1,16 @@
+{
+	"__comment__": "This file was manually created by LordNotix",
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"---"
+	],
+	"key": {
+		"-": {
+			"item": "paragon_textiles:silk"
+		}
+	},
+	"result": {
+		"item": "minecraft:string",
+		"count": 1
+	}
+}

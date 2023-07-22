@@ -1,0 +1,9 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "replace": true,
+    "values": [
+        "tfc:wool_yarn",
+        "paragon_textiles:silk",
+        "paragon_textiles:twine"
+    ]
+}

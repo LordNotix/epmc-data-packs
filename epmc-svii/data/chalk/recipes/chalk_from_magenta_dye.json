@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:dyes/magenta"
+      },
+      {
+        "item": "tfc:ore/gypsum"
+      }
+    ],
+    "result": {
+      "item": "chalk:magenta_chalk",
+      "count": 1
+    }
+  }
