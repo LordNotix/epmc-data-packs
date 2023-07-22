@@ -45,76 +45,6 @@
         },
         {
           "replace": [
-            "tfc:rock/raw/shale"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/shale"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/claystone"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/claystone"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/limestone"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/limestone"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/conglomerate"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/grmagmaavel/conglomerate"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/dolomite"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/dolomite"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/chert"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/chert"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/chalk"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/chalk"
-            }
-          ]
-        },
-        {
-          "replace": [
             "tfc:rock/raw/rhyolite"
           ],
           "with": [
@@ -152,68 +82,8 @@
               "block": "tfc:rock/magma/dacite"
             }
           ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/quartzite"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/quartzite"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/slate"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/slate"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/phyllite"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/phyllite"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/schist"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/schist"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/gneiss"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/gneiss"
-            }
-          ]
-        },
-        {
-          "replace": [
-            "tfc:rock/raw/marble"
-          ],
-          "with": [
-            {
-              "block": "tfc:rock/magma/marble"
-            }
-          ]
         }
       ],
-      "random_name": "tfc:vein/gravel"
+      "random_name": "tfc:deep_magma"
     }
   }
