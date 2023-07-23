@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "waystones:mossy_waystone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SWS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "greenthumb:mossy_bricks"
+    },
+    "W": {
+      "item": "minecraft:compass"
+    }
+  }
+}

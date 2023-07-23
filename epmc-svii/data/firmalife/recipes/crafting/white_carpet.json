@@ -1,0 +1,16 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XX"
+    ],
+    "key": {
+      "X": {
+        "tag": "tfc:high_quality_fabric"
+      }
+    },
+    "result": {
+      "item": "minecraft:white_carpet",
+      "count": 1
+    }
+  }
