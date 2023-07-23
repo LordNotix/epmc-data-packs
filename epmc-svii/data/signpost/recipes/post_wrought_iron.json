@@ -11,7 +11,7 @@
       "tag": "minecraft:signs"
     },
     "b": {
-      "tag": "forge:ingots/wrought_iron"
+      "tag": "forge:metal/rod/wrought_iron"
     }
   },
   "result": {

@@ -1,19 +1,20 @@
 {
-  "result": {
-    "item": "waystones:mossy_waystone"
-  },
+  "__comment__": "This file was manually created by LordNotix",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " S ",
-    "SWS",
+    "SCS",
     "SSS"
   ],
   "key": {
-    "S": {
-      "tag": "greenthumb:mossy_bricks"
-    },
-    "W": {
+    "C": {
       "item": "minecraft:compass"
+    },
+    "S": {
+      "tag": "epmc:mossy_cobble"
     }
+  },
+  "result": {
+    "item": "waystones:waystone"
   }
 }

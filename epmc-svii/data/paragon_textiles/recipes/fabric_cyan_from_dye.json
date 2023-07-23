@@ -1,0 +1,16 @@
+{
+	"__comment__": "This file was manually created by LordNotix",
+        "type": "crafting_shapeless",
+        "ingredients": [
+          {
+            "tag": "forge:dyes/cyan"
+          },
+          {
+            "item": "paragon_textiles:fabric_white"
+          }
+        ],
+        "result": {
+          "item": "paragon_textiles:fabric_cyan",
+          "count": 1
+        }
+    }

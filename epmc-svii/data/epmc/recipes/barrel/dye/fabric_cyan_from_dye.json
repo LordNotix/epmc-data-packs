@@ -1,0 +1,17 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "type": "tfc:barrel_sealed",
+    "input_item": {
+      "ingredient": {
+        "tag": "paragon_textiles:fabric_white"
+      }
+    },
+    "input_fluid": {
+      "ingredient": "tfc:cyan_dye",
+      "amount": 25
+    },
+    "output_item": {
+      "item": "paragon_textiles:fabric_cyan"
+    },
+    "duration": 1000
+  }
