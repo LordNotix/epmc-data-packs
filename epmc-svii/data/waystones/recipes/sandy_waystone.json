@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "waystones:sandy_waystone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SWS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:cut_sandstone/yellow"
+    },
+    "W": {
+      "item": "minecraft:compass"
+    }
+  }
+}

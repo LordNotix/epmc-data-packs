@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "Signpost",
+  "pattern": [
+    "h",
+    "s"
+  ],
+  "key": {
+    "h": {
+      "tag": "tfc:burlap_cloth"
+    },
+    "s": {
+      "tag": "tfc:firepit_sticks"
+    }
+  },
+  "result": {
+    "item": "signpost:brush",
+    "count": 1
+  }
+}

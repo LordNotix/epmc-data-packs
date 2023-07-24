@@ -1,0 +1,23 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "MSM",
+      "SLS",
+      "MSM"
+    ],
+    "key": {
+      "M": {
+        "tag": "forge:sheets"
+      },
+      "S": {
+        "tag": "tfc:firepit_sticks"
+      },
+      "L": {
+        "item": "tfc:wood/lumber/spruce"
+      }
+    },
+    "result": {
+      "item": "astikorcarts:wheel/spruce"
+    }
+  }
