@@ -3,15 +3,15 @@
     "type": "tfc:barrel_sealed",
     "input_item": {
       "ingredient": {
-        "tag": "paragon_textiles:fabric_white"
+        "item": "paragon_textiles:fabric_white"
       }
     },
     "input_fluid": {
-      "ingredient": "tfc:cyan_dye",
+      "ingredient": "tfc:pink_dye",
       "amount": 25
     },
     "output_item": {
-      "item": "paragon_textiles:fabric_cyan"
+      "item": "paragon_textiles:fabric_pink"
     },
     "duration": 1000
   }

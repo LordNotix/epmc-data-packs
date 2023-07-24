@@ -3,7 +3,7 @@
     "type": "tfc:barrel_sealed",
     "input_item": {
       "ingredient": {
-        "tag": "paragon_textiles:fabric_white"
+        "item": "paragon_textiles:fabric_white"
       }
     },
     "input_fluid": {

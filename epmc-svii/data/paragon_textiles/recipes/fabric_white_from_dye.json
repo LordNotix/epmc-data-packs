@@ -6,7 +6,7 @@
             "tag": "forge:dyes/white"
           },
           {
-            "item": "epmc:fabric_bundles"
+            "tag": "epmc:fabric_bundles"
           }
         ],
         "result": {
