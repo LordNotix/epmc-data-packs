@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"WWW",
+		"WLW",
+		"RLR"
+	],
+	"key": {
+		"W": {
+			"tag": "forge:wool"
+		},
+		"L": {
+			"tag": "minecraft:logs"
+		},
+		"R": {
+			"item": "minecraft:sail"
+		}
+    },
+	"result": {
+		"item": "smallships:sail",
+		"count": 1
+	}
+}
