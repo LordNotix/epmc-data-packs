@@ -20,15 +20,33 @@
               ]
             },
             {
-              "type": "minecraft:item",
-              "name": "paragon_textiles:plant_fibers",
-              "functions": [
+              "type": "minecraft:group",
+              "children": [
                 {
-                  "function": "minecraft:set_count",
-                  "count": {
-                    "min": 0,
-                    "max": 2
-                  }
+                  "type": "minecraft:item",
+                  "name": "tfc:straw",
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": {
+                        "min": 1,
+                        "max": 2
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "paragon_textiles:plant_fibers",
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": {
+                        "min": 1,
+                        "max": 2
+                      }
+                    }
+                  ]
                 }
               ],
               "conditions": [
@@ -39,33 +57,6 @@
                   }
                 }
               ]
-            },
-            {
-              "type": "minecraft:item",
-              "name": "tfc:straw",
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": {
-                    "min": 0,
-                    "max": 2
-                  }
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:weather_check",
-                  "raining": false
-                }
-              ]
-            }
-          ],
-          "conditions": [
-            {
-              "condition": "minecraft:match_tool",
-              "predicate": {
-                "tag": "tfc:sharp_tools"
-              }
             }
           ]
         }
