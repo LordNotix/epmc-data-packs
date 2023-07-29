@@ -1,0 +1,18 @@
+{
+	"__comment__": "This file was manually created by LordNotix",
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"11 ",
+		" 1 ",
+        " 11"
+	],
+	"key": {
+		"1": {
+			"item": "paragon_textiles:flax_stalks"
+		}
+	},
+	"result": {
+		"item": "paragon_textiles:raw_fibers",
+		"count": 5
+	}
+}
