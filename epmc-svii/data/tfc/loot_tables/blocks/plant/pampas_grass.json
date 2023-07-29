@@ -1,9 +1,7 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
   "type": "minecraft:block",
   "pools": [
     {
-      "name": "loot_pool",
       "rolls": 1,
       "entries": [
         {
@@ -18,19 +16,21 @@
                   "predicate": {
                     "tag": "forge:shears"
                   }
-                },
-                {
-                  "condition": "minecraft:block_state_property",
-                  "block": "tfc:plant/pampas_grass",
-                  "properties": {
-                    "part": "lower"
-                  }
                 }
               ]
             },
             {
               "type": "minecraft:item",
               "name": "paragon_textiles:plant_fibers",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 0,
+                    "max": 2
+                  }
+                }
+              ],
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -39,6 +39,33 @@
                   }
                 }
               ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "tfc:straw",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 0,
+                    "max": 4
+                  }
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:weather_check",
+                  "raining": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "tag": "tfc:sharp_tools"
+              }
             }
           ]
         }
