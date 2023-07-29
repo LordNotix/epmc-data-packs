@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was manually created by LordNotix",
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "paragon_textiles:plant_fibers"
+  },
+  "result": {
+    "item": "tfc:straw"
+  }
+}

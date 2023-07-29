@@ -1,0 +1,16 @@
+{
+    "__comment__": "This file was manually created by mcresourceLordNotix",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XX",
+      "XX"
+    ],
+    "key": {
+      "X": {
+        "item": "paragon_textiles:plant_fibers"
+      }
+    },
+    "result": {
+      "item": "firmalife:drying_mat"
+    }
+  }
