@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "tfc:straw",
+    "count" : 2
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:groundcover/dead_grass"
+    }
+  ]
+}

@@ -11,7 +11,7 @@
       "item": "minecraft:compass"
     },
     "S": {
-      "tag": "forge:cobblestone"
+      "tag": "epmc:cobble"
     }
   },
   "result": {

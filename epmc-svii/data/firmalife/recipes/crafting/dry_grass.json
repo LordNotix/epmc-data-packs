@@ -6,10 +6,10 @@
     ],
     "key": {
       "X": {
-        "item": "paragon_textiles:plant_fibers"
+        "item": "tfc:straw"
       }
     },
     "result": {
-      "item": "firmalife:drying_mat"
+      "item": "tfc:groundcover/dead_grass"
     }
   }
