@@ -1,0 +1,22 @@
+{
+    "__comment__": "This file was manually created by LordNotix",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "YXY",
+      "ZZZ"
+    ],
+    "key": {
+      "Z": {
+        "tag": "forge:double_sheets/bronze"
+      },
+      "Y": {
+        "tag": "tpmc:fabric"
+      },
+      "X": {
+        "item": "minecraft:leather_horse_armor"
+      }
+    },
+    "result": {
+      "item": "tfc:metal/horse_armor/bronze"
+    }
+  }
