@@ -10,7 +10,7 @@
         "tag": "forge:double_sheets/bismuth_bronze"
       },
       "Y": {
-        "tag": "tpmc:fabric"
+        "tag": "epmc:fabric"
       },
       "X": {
         "item": "minecraft:leather_horse_armor"
