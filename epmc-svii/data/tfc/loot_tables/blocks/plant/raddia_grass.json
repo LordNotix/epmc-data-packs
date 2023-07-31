@@ -33,6 +33,12 @@
                         "max": 2
                       }
                     }
+                  ],
+                  "conditions": [
+                    {
+                      "condition": "minecraft:weather_check",
+                      "raining": false
+                    }
                   ]
                 },
                 {

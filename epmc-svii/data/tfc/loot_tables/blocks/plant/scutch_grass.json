@@ -9,7 +9,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "tfc:plant/scutchgrass",
+              "name": "tfc:plant/scutch_grass",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -32,6 +32,12 @@
                         "min": 1,
                         "max": 2
                       }
+                    }
+                  ],
+                  "conditions": [
+                    {
+                      "condition": "minecraft:weather_check",
+                      "raining": false
                     }
                   ]
                 },

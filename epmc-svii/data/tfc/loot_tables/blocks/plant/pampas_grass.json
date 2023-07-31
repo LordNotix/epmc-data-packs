@@ -9,7 +9,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "tfc:plant/pampas_grass",
+              "name": "tfc:plant/bluegrass",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -33,6 +33,12 @@
                         "max": 2
                       }
                     }
+                  ],
+                  "conditions": [
+                    {
+                      "condition": "minecraft:weather_check",
+                      "raining": false
+                    }
                   ]
                 },
                 {
@@ -43,7 +49,7 @@
                       "function": "minecraft:set_count",
                       "count": {
                         "min": 1,
-                        "max": 4
+                        "max": 2
                       }
                     }
                   ]
