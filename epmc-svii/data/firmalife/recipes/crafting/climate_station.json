@@ -1,0 +1,23 @@
+{
+  "__comment__": "This file was manually created by DeadShotm1",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BXB",
+    "BYB",
+    "BXB"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:blue_stained_glass"
+    },
+    "X": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "B": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "firmalife:climate_station"
+  }
+}

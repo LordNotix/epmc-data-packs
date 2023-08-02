@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was manually created by DeadShotm1",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YXY",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "tfc:powder/kaolinite"
+    },
+    "Y": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "tfc:fire_clay"
+  }
+}
